@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Aakash</h1>
 <h3 align="center">A passionate Web developer and programmer from India</h3>
+<img src="https://static.wixstatic.com/media/0c774c_51d91940ad5f4c5ab49a4cd8c762f4b6~mv2.gif"
 
-<img alt="" align="right" width="400" src="https://magiccopy.xyz/assets/images/hadder.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaka-123&label=Profile%20views&color=0e75b6&style=flat" alt="aaka-123" /> </p>
 
 
